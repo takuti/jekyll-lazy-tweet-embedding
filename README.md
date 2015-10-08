@@ -9,7 +9,7 @@ This is a converter plugin. So, the plugin converts all tweet urls in your posts
 
 ## Usage
 
-After putting `lazy_tweet_embedding.rb` under the **_plugin** directory, Jekyll will automatically embed tweet card every time he generates your site.
+After putting `lazy_tweet_embedding.rb` under the **_plugins** directory, Jekyll will automatically embed tweet card every time he generates your site.
 
 Tweet url is things like:
 
