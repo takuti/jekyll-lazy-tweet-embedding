@@ -11,9 +11,19 @@ This is a converter plugin. So, the plugin converts all tweet urls in your posts
 
 After putting `lazy_tweet_embedding.rb` under the **_plugins** directory, Jekyll will automatically embed tweet card every time he generates your site.
 
-Tweet url is things like:
+First of all, make sure the tweet url:
 
-`https://twitter.com/takuti/status/636907107107803137`
+![1](/screenshots/1.png)
+
+Next, just copy and paste it in your awesome article:
+
+![2](/screenshots/2.png)
+
+Done! Jekyll converts the url automatically.
+
+![3](/screenshots/3.png)
+
+:tada: :tada: :tada: :tada: :tada:
 
 ## Licence
 
