@@ -1,0 +1,11 @@
+/jekyll-sample/*
+
+!/jekyll-sample/_posts/
+/jekyll-sample/_posts/*
+!/jekyll-sample/_posts/2016-07-01-sample-html.html
+!/jekyll-sample/_posts/2016-07-01-sample-markdown.md
+
+!/jekyll-sample/_site/
+/jekyll-sample/_site/*
+!/jekyll-sample/_site/sample-html.html
+!/jekyll-sample/_site/sample-markdown.html
