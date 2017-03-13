@@ -1,11 +1,11 @@
 Jekyll Lazy Tweet Embedding Plugin
 ====
 
-Embedding your tweet into posts, by just copying tweet url.
+Embed your tweet into posts, by just copy-and-pasting tweet url.
 
 ## Description
 
-This is a converter plugin. So, the plugin converts all tweet urls in your posts written as `.html` or `.md`.
+This converter plugin converts all tweet urls in your posts written as `.html` or `.md`.
 
 ## Usage
 
